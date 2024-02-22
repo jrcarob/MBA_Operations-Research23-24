@@ -1,4 +1,4 @@
-# Dirección de la Producción y Operaciones (MBA 2022-2023)
+# Dirección de la Producción y Operaciones (MBA 2023-2024)
 
 Site for the spanish course on Production and Operations Management
 
