@@ -2,4 +2,4 @@
 
 Site for the spanish course on Production and Operations Management
 
-https://jrcarob.github.io/MBA_Operations-Research22-23/mba2.html
+https://jrcarob.github.io/MBA_Operations-Research23-24/mba2.html
