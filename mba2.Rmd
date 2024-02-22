@@ -1,11 +1,18 @@
 ---
-title: "Dirección de la Producción y Operaciones (MBA 2022-2023)"
-author: "Profesor: José Rafael Caro Barrera<br> Profesor: José Lumbreras Casana"
+title: "Dirección de la Producción y Operaciones (MBA 2023-2024)"
+author: "Profesora: Mª de los Baños García-Moreno García<br>Profesor: José Rafael Caro Barrera<br> Profesor: José Lumbreras Casana"
 output: rmdformats::readthedown
 #css: custom.css
 ---
 
-## Contacto y consultas/tutorías
+## Equipo Docente
+
+* #### Profesora: María de los Baños García-Moreno García (COORDINADORA)
+
+**Email:** d52gagam@uco.es
+
+**Despacho:** Dpto. de Estadística, Econometría e Investigación Operativa. Área Estadística, 1ª planta. Facultad de Derecho y Empresariales.
+
 
 * #### Profesor: José Rafael Caro Barrera
 
@@ -13,51 +20,50 @@ output: rmdformats::readthedown
 
 **Despacho:** Dpto. de Estadística, Econometría e Investigación Operativa. Área Estadística, 1ª planta. Facultad de Ciencias del Trabajo.
 
-Disponible siempre en el correo electrónico. Para concertar una tutoría, el modo más rápido es mediante correo electrónico para concretar día y hora.
-
 * #### Profesor: José Lumbreras Casana
 
 **Email:** joseramonlc@gmail.com
 
+<span style="color:blue">**Tutorías:**</span> Con cualquier profesor, mediante correo electrónico para concretar día y hora.
 
 ### Forum del Curso
 
-Aparte de resolver cualquier tipo de duda tanto en clase como por correo, puede ser que alguna de las dudas sea de interés general. Para preguntas de este tipo, como aclaraciones del curso o preguntas conceptuales, suelen funcionar bien y ser de utilidad los foros de discusión, ya que además promueve la participación activa de los estudiantes, por lo que se invita a utilizar el [foro de discusión de cada bloque](https://moodle.uco.es/m2223/course/view.php?id=3504).
+Aparte de resolver cualquier tipo de duda tanto en clase como por correo, puede ser que alguna de las dudas sea de interés general. Para preguntas de este tipo, como aclaraciones del curso o preguntas conceptuales, suelen funcionar bien y ser de utilidad los foros de discusión, ya que además promueve la participación activa de los estudiantes, por lo que se invita a utilizar el [foro de discusión de cada bloque](https://moodle.uco.es/m2324/course/view.php?id=3209).
 
 
-## Información y Fechas del Curso
+## Fechas del Curso
 
 **Lugar de impartición:** Seminario y Sala de Másteres 1 -- Facultad de Derecho y CCEE. 
 
 * Se ha organizado el curso en los siguientes módulos semanales.
 
 ```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
-tabl <- "  ### Calendario de Fechas<sup>*</sup>
+tabl <- "  ### Calendario de Fechas
 | Semanas        | FECHA             | HORA           | DOCENTE         |
 |----------------|:-----------------:|:--------------:|:----------------|
-| **Semana I**   | Lunes, 27 febrero | 16:00-20:00    | Prof: José Caro |
-|                | Martes, 28 febrero| **FESTIVO**    |                 |
-| **Semana II**  | Lunes, 06 marzo   | **No hay clase<sup>1</sup>**|    |
-|                | Martes, 07 marzo  | 16:00-18:00    | Prof: José Caro |
-| **Semana III** | Lunes, 13 marzo   | 18:00-20:00    | Prof: José Caro |
-|                | Martes, 14 marzo  | 16:00-18:00    | Prof: José Caro |
-| **Semana IV**  | Lunes, 20 marzo   | 18:00-20:00    | Prof: José Caro |
-|                | Martes, 21 marzo  | 16:00-18:00    | Prof: José Caro |
-| **Semana V**   | Lunes, 27 marzo   | 18:00-20:00    | Prof: José Lumbreras |
-|                | Martes, 28 marzo  | 18:00-20:00    | Prof: José Lumbreras |
-| **Semana VI**  | Lunes, 03 abril   | **FESTIVO**    |
-|                | Martes, 04 abril  | **FESTIVO**    |
-| **Semana VII** | Lunes, 10 abril   | 18:00-20:00    | Prof: José Lumbreras |
-|                | Martes, 11 abril  | 18:00-20:00    | Prof: José Lumbreras |
-| **Semana VIII**| Lunes, 17 abril   | 18:00-20:00    | Prof: José Lumbreras |
-|                | Martes, 18 abril  | 18:00-20:00    | Prof: José Lumbreras |
-| **Evaluación** |  **Por decidir**  |                |                      |
+| **Semana I**   | Lunes, 26 febrero | 18:00-20:00    |Prof: J. Lumbreras |
+|                | Martes, 27 febrero| 16:00-18:00<sup>1</sup>    | Prof: J. Lumbreras |
+| **Semana II**  | Lunes, 04 marzo   | 18:00-20:00    | Prof: J. Lumbreras |
+|                | Martes, 05 marzo  | 16:00-18:00<sup>1</sup>    | Prof: J. Lumbreras |
+| **Semana III** | Lunes, 11 marzo   | 18:00-20:00    | Prof: J. Lumbreras |
+|                | Martes, 12 marzo  | 16:00-18:00<sup>1</sup>    | Prof: J. Lumbreras |
+| **Semana IV**  | Lunes, 18 marzo   | 18:00-20:00    | Prof: José Caro |
+|                | Martes, 19 marzo  | 18:00-20:00    | Prof: José Caro |
+| **Semana V**   | **Lunes, 25 marzo**  | **FESTIVO**      |  |
+|                 | **Martes, 26 marzo**  | **FESTIVO**      |  |
+| **Semana VI**   | Lunes, 1 abril   | 18:00-20:00    | Prof: José Caro |
+|                 | Martes, 2 abril  | 18:00-20:00    | Prof: José Caro |
+| **Semana VII**  | Lunes, 8 abril   | 18:00-20:00    | Profa: M. B. García-Moreno |
+|                 | Martes, 9 abril  | 18:00-20:00    | Profa: M. B. García-Moreno |
+| **Semana VIII** | Lunes, 15 abril   | 18:00-20:00   | Profa: M. B. García-Moreno |
+|                 | Martes, 16 abril  | 18:00-20:00   | Profa: M. B. García-Moreno |
+| **Evaluación**  |  **Por decidir**  |||
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```
-<sup>1</sup> Recuperación de la clase _Técnicas Avanzadas en Dirección de Empresas_ del profesor Guzmán Muñoz.
+<sup>1</sup> Por cambio de la clase _Finanzas Corporativas Avanzadas_ del profesor Francisco Vázquez.
 
-### Objetivos
+## Objetivos y Organización de la Asignatura
 
 El curso se plantea como una introducción a la dirección de la producción y operaciones de una forma práctica mediante el uso del software más idóneo.
 
@@ -77,7 +83,7 @@ Al finalizar, se pretende que el estudiante sea capaz de:
 
 * Ser capaz de desarrollar una visión de la empresa multilateral, pero al mismo tiempo maximizar un objetivo común: producir con eficiencia.
 
-## Organización de la Asignatura
+### Organización de la Asignatura
 
 La asignatura está organizadas en los siguientes temas:
 
@@ -117,7 +123,7 @@ Aunque no hay un libro de texto específico para este curso, en la guía docente
 
 Al finalizar cada tema o parte y dependiendo de la materia que se haya visto, habrá un _Test de Autoevaluación_ o _Actividad Práctica_ , a modo de ir conformando la nota para la evaluación continua. Normalmente se realizará en la hora de clase; si es un _test de autoevaluación_ se abrirá el test un día a una hora determinada avisando con el tiempo suficiente. Si es una actividad práctica, se abrirá una tarea para que se pueda subir el archivo con los resultados, con un periodo de gracia posterior a la finalización de la clase.
 
-## Evaluación
+### Evaluación
 
 La nota estará compuesta por la media de todas las actividades realizadas y entregadas durante el curso.
  
